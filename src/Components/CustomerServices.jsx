@@ -16,7 +16,7 @@ const CustomerServices = () => {
                     <div className='space-y-8'>
                         <h1 className='text-3xl font-medium text-gray-600'>Exceptional Customer Service</h1>
                         <p className='text-2xl font-light text-gray-500'>By offering exceptional service with no detail unattended, we have been fortunate enough to have developed into the leading provider of ground transportation in the area. Our goal is to make your travels safe, effortless and on schedule.</p>
-                        <Link to="/" className="inline-flex uppercase justify-center items-center py-3 px-5 text-base  text-center text-white rounded-full bg-amber-600 hover:bg-amber-800 ">
+                        <Link to="/contact" className="inline-flex uppercase justify-center items-center py-3 px-5 text-base  text-center text-white rounded-full bg-amber-600 hover:bg-amber-800 ">
                             Contact Us
                         </Link>
                     </div>

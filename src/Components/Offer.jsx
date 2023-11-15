@@ -44,7 +44,7 @@ const Offer = () => {
                 </div>
 
                 <div className="mt-12 flex justify-center">
-                    <Link to="/" className="inline-flex uppercase justify-center items-center py-3 px-5 text-base font-medium text-center text-white rounded-full bg-amber-600 hover:bg-amber-800 ">
+                    <Link to="/contact" className="inline-flex uppercase justify-center items-center py-3 px-5 text-base font-medium text-center text-white rounded-full bg-amber-600 hover:bg-amber-800 ">
                         Contact Us
                     </Link>
                 </div>

@@ -65,7 +65,7 @@ const Contact = () => {
       </div>
 
       <div className="flex items-center justify-center mt-4">
-        <Link to="/" className="inline-flex uppercase justify-center items-center py-3 px-5 text-base font-medium text-center text-white rounded-full bg-amber-600 hover:bg-amber-800 ">
+        <Link to="/contact" className="inline-flex uppercase justify-center items-center py-3 px-5 text-base font-medium text-center text-white rounded-full bg-amber-600 hover:bg-amber-800 ">
           Contact Us
         </Link>
       </div>

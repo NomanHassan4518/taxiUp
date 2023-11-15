@@ -51,7 +51,7 @@ const Home = () => {
                 <h1 className="mb-4 text-4xl font-semibold tracking-tight leading-none text-white md:text-5xl lg:text-6xl"> First Class . WorldWide</h1>
                 <p className="mb-8 text-lg font-normal text-white lg:text-xl sm:px-16 lg:px-48">A chauffer Service for Any Purpose.</p>
                 <div className="flex flex-col space-y-4 sm:flex-row sm:justify-center sm:space-y-0">
-                  <Link to="/" className="inline-flex uppercase justify-center items-center py-3 px-5 text-base font-medium text-center text-white rounded-full bg-amber-600 hover:bg-amber-800 ">
+                  <Link to="/contact" className="inline-flex uppercase justify-center items-center py-3 px-5 text-base font-medium text-center text-white rounded-full bg-amber-600 hover:bg-amber-800 ">
                     Contact Us
                   </Link>
                 </div>
@@ -65,7 +65,7 @@ const Home = () => {
                 <h1 className="mb-4 text-4xl font-semibold tracking-tight leading-none text-white md:text-5xl lg:text-6xl"> First Class . WorldWide</h1>
                 <p className="mb-8 text-lg font-normal text-white lg:text-xl sm:px-16 lg:px-48">A chauffer Service for Any Purpose.</p>
                 <div className="flex flex-col space-y-4 sm:flex-row sm:justify-center sm:space-y-0">
-                  <Link to="/" className="inline-flex uppercase justify-center items-center py-3 px-5 text-base font-medium text-center text-white rounded-full bg-amber-600 hover:bg-amber-800 ">
+                  <Link to="/contact" className="inline-flex uppercase justify-center items-center py-3 px-5 text-base font-medium text-center text-white rounded-full bg-amber-600 hover:bg-amber-800 ">
                     Contact Us
                   </Link>
                 </div>
@@ -79,7 +79,7 @@ const Home = () => {
                 <h1 className="mb-4 text-4xl font-semibold tracking-tight leading-none text-white md:text-5xl lg:text-6xl"> First Class . WorldWide</h1>
                 <p className="mb-8 text-lg font-normal text-white lg:text-xl sm:px-16 lg:px-48">A chauffer Service for Any Purpose.</p>
                 <div className="flex flex-col space-y-4 sm:flex-row sm:justify-center sm:space-y-0">
-                  <Link to="/" className="inline-flex uppercase justify-center items-center py-3 px-5 text-base font-medium text-center text-white rounded-full bg-amber-600 hover:bg-amber-800 ">
+                  <Link to="/contact" className="inline-flex uppercase justify-center items-center py-3 px-5 text-base font-medium text-center text-white rounded-full bg-amber-600 hover:bg-amber-800 ">
                     Contact Us
                   </Link>
                 </div>

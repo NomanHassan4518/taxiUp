@@ -5,14 +5,7 @@ const Offer = () => {
 
     return (
         <>
-            <div className='bg-gray-50 py-10 mt-24 lg:px-20'>
-
-                <div className='text-center'>
-                    <p className='text-xl font-medium text-amber-600'>WHAT WE OFFER</p>
-                    <p className='text-4xl font-light text-gray-600 mt-3'>See What We Can Do for You</p>
-                </div>
-
-
+            <div >
                 <div className="grid lg:grid-cols-2 grid-cols-1 gap-4 mt-16 ">
 
                     <div className="relative " style={{ width: "100%", height: "15rem", backgroundImage: `url("https://driver-up-company.vercel.app/image_01-4.jpg")`, backgroundSize: "cover", backgroundPosition: "center center", backgroundRepeat: "no-repeat" }}>
@@ -57,10 +50,7 @@ const Offer = () => {
                 </div>
             </div>
 
-            <div className='text-center mt-12'>
-                <p className='text-xl font-medium text-amber-600'>WHY CHOOSE US</p>
-                <p className='text-4xl font-light text-gray-600 mt-3'>Proudly Serving the Oakland Area Since 2007</p>
-            </div>
+           
         </>
 
     )

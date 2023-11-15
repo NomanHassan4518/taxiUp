@@ -41,7 +41,7 @@ const Contact = () => {
 
       <div className="lg:px-20 px-5 mt-20">
         <div className='grid lg:grid-cols-2 grid-cols-1 border border-gray-300 '>
-          <div className='border-r-2 border-gray-300'>
+          <div className='lg:border-r-2 lg:border-gray-300'>
             <div class="relative z-0 w-full mb-6 group border-b-2 border-gray-300 px-8 py-4">
               <p className='mt-3 text-gray-900'>Your email</p>
               <input type="email" name="floating_email" id="floating_email" class="block mt-2 py-2.5 px-2.5 w-full text-sm text-gray-900 bg-transparent border-0 appearance-none rounded-sm dark:text-white dark:border-gray-600 dark:focus:border-none focus:outline-none focus:ring-2 focus:ring-black focus:border-blue-600 " placeholder=" name@flowbite.com" required />

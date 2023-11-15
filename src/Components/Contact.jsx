@@ -27,7 +27,7 @@ const Contact = () => {
           </p>
         </div>
 
-        <div className='bg-[#f3f4f6] space-y-8 px-20 py-20'>
+        <div className='bg-[#f3f4f6] space-y-8 lg:px-20 px-5 py-20'>
           <p className='text-2xl text-gray-600'>Chairman of the Board</p>
           <p className='text-xl text-gray-500 font-light'> Mark Peter <br />
             Phone: (620) 252 8021, Fax: (620) 252 8022 <br />
